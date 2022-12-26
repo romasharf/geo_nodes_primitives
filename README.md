@@ -1,12 +1,12 @@
 # geo_nodes_primitives
 
-INSTALLATION
--download zip from this repository
--unpack geo_nodes_primitives.py to any folder
--run Blender. Go to Edit -> Preferences -> Add-ons
--click "Install" button and choose geo_nodes_primitives.py from the folder where you unpacked it
--activate addon by pressing on square nextto its name
-
-USING
--in 3d Viewport go to "Add" -> "Mesh"
+INSTALLATION <br>
+-download zip from this repository <br>
+-unpack geo_nodes_primitives.py to any folder <br>
+-run Blender. Go to Edit -> Preferences -> Add-ons <br>
+-click "Install" button and choose geo_nodes_primitives.py from the folder where you unpacked it <br>
+-activate addon by pressing on square next to its name <br>
+<br>
+USING <br>
+-in 3d Viewport go to "Add" -> "Mesh" <br>
 -click "GeoNodes Cylinder"
