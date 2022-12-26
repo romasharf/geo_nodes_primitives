@@ -33,9 +33,6 @@ def geo_nodes_cylinder():
     geo_cyl = nodes.new(type="GeometryNodeMeshCylinder")
     geo_cyl.inputs[0].default_value = 8
 
-    #geo_cyl.location.x -= 50
-    #geo_cyl.location.y -= 50
-
     # connect
     links = node_group.links
     links.remove(links[0])
@@ -49,7 +46,7 @@ def geo_nodes_cylinder():
 
 
 class OBJECT_OT_add_object(Operator, AddObjectHelper):
-    """Create a new Mesh Object"""
+    """Create a new GeoNodes Cylinder"""
     bl_idname = "mesh.add_object"
     bl_label = "Add Mesh Object"
     bl_options = {'REGISTER', 'UNDO'}
