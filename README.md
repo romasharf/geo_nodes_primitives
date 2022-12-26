@@ -1,4 +1,5 @@
 # geo_nodes_primitives
+Thanks to guys from blender.stackexchange.com for parts of code (especially to https://blender.stackexchange.com/users/109459/x-y) <br>
 
 INSTALLATION <br>
 -download zip from this repository <br>
