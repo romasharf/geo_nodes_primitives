@@ -1,5 +1,4 @@
 # geo_nodes_primitives
-Thanks to guys from blender.stackexchange.com for the parts of code (especially to https://blender.stackexchange.com/users/109459/x-y) <br>
 
 <b>INSTALLATION</b> <br>
 -download zip from this repository <br>
@@ -10,4 +9,6 @@ Thanks to guys from blender.stackexchange.com for the parts of code (especially 
 <br>
 <b>USING</b> <br>
 -in 3d Viewport go to "Add" -> "Mesh" <br>
--click "GeoNodes Cylinder"
+-click "GeoNodes Cylinder" <br>
+
+Thanks to guys from blender.stackexchange.com for the parts of code (especially to https://blender.stackexchange.com/users/109459/x-y) <br>
