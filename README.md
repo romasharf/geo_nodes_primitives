@@ -13,3 +13,4 @@
 -to change the parameters of the cylinder that you just made go to Modifiers Properties (wrench icon) and tweak parameters of GeometryNodes modifier
 
 Thanks to guys from blender.stackexchange.com for the parts of code (especially to https://blender.stackexchange.com/users/109459/x-y) <br>
+and to Sergey Turandin for testing <br>
