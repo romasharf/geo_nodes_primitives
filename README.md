@@ -4,7 +4,9 @@
 -download zip from this repository <br>
 -unpack it to any folder <br>
 -run Blender. Go to Edit -> Preferences -> Add-ons <br>
--click "Install" button and choose geo_nodes_primitives-main.zip from the folder where you downloaded it <br>
+-click "Install" button <br>
+-choose geo_nodes_primitives-main.zip from the folder where you downloaded it <br>
+-click "Install Add-on" button <br>
 -activate addon by pressing on square next to its name <br>
 <br>
 <b>USING</b> <br>
