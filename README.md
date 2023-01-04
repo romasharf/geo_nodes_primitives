@@ -1,7 +1,7 @@
 # geo_nodes_primitives
 
 <b>INSTALLATION</b> <br>
--click green "<> Code" button on the top of this page <br>
+-click green "<> Code" button from the top of this page <br>
 -in pop-up menu click "Download ZIP" <br>
 -run Blender. Go to Edit -> Preferences -> Add-ons <br>
 -click "Install" button <br>
