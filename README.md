@@ -7,7 +7,7 @@
 -click "Install" button <br>
 -choose geo_nodes_primitives-main.zip from the folder where you downloaded it <br>
 -click "Install Add-on" button <br>
--activate the addon by pressing on the square next to its name <br>
+-activate the addon by clicking the square next to its name <br>
 <br>
 <b>USING</b> <br>
 -in 3d Viewport go to "Add" -> "Mesh" <br>
